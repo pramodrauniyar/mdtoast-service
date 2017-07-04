@@ -4,7 +4,7 @@
   "description": "simple angular service for Material Toast.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: There no test specified\" && exit 1"
+    "test": "echo \"Error: There no test specified\" && exit 1" 
   },
   "repository": {
     "type": "git",
@@ -12,8 +12,9 @@
   },
   "keywords": [
     "angular",
+    "angular 1"
     "material",
-    "toast"
+    "mdtoast"
   ],
   "author": "Pramod Rauniyar <pramod.rauniyar@gmail.com> (https://github.com/pramodrauniyar/)",
   "license": "MIT",
