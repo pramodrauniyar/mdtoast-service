@@ -1,0 +1,26 @@
+{
+  "name": "mdtoast-service",
+  "authors": [
+    "pramod.rauniyar@gmail.com <pramod.rauniyar@gmail.com>"
+  ],
+  "description": "This is simple angular service for handling success and error messages",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "angular 1"
+    "material",
+    "mdtoast"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/pramodrauniyar/mdtoast-service",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mdtoast-service",
+  "version": "1.0.0",
+  "description": "simple angular service for Material Toast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: There no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramodrauniyar/mdtoast-service.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "toast"
+  ],
+  "author": "Pramod Rauniyar <pramod.rauniyar@gmail.com> (https://github.com/pramodrauniyar/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pramodrauniyar/mdtoast-service/issues"
+  },
+  "homepage": "https://github.com/pramodrauniyar/mdtoast-service/"
+  
+}
