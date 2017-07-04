@@ -6,7 +6,7 @@
     'use strict';
 
     angular
-        .module('mdtoast-service')
+        .module('mdtoast-service',[])
         .factory('toasterService', toasterService);
 
     toasterService.$inject = ['$mdToast'];
