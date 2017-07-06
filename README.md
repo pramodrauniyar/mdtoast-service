@@ -4,7 +4,7 @@ This is simple angular service for handling success and error toast messages
 ## Example success toast message
 	   toasterService.success('Data loaded!');
 ## Example error toast message	   
-	   toasterService.error('Eroor while loading data!');
+	   toasterService.error('Error while loading data!');
 
 ### Install via bower
 > bower install mdtoast-service
