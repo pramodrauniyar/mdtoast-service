@@ -1,6 +1,6 @@
 /**
  * Simple angular service to show success and error message
- * @author <pramod.rauniyar@gmail.com>, 2017 
+ * @author <pramod.rauniyar@gmail.com>, 2017
  */
 (function() {
     'use strict';
@@ -13,7 +13,7 @@
 
     /* @ngInject */
     function toasterService($mdToast) {
-        // init variables 
+        // init variables
         var delay = 10000;
         var actionText = 'X';
         var last = {
@@ -34,7 +34,7 @@
 
         /**
          * [sanitizePosition to update current and last]
-         * 
+         *
          */
         function sanitizePosition() {
 
@@ -61,7 +61,7 @@
          * @param  {string} message [message to show]
          * @return {string}         [show message in mdtoast]
          */
-        function error(data) {
+        function error(message) {
             showSimpleToast(message, 'error-toast');
         }
 
